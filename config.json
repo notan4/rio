@@ -1,0 +1,16 @@
+{
+   "token":"",
+   "YOUTUBE_API_KEY": "",
+   "GOOGLE_KEY": "",
+   "ENGINE_ID": "",
+   "CHANNEL_WELCOME": "",
+   "ROLES_WELCOME": [""],
+   "CHANNELID":"",
+   "default_prefix" : "",
+   "Owner": "",
+   "Invite": "",
+   "Server": "",
+   "CHANNELS_ID":{
+      "SUGGESTIONS":""
+  }
+}
